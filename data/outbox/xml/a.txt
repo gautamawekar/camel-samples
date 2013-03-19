@@ -1,0 +1,20 @@
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+{
+ CamelFileLastModified=Mon Feb 11 15:58:04 GMT 2013
+ CamelFileLength=21
+ CamelFilePath=data/inbox/a.txt
+ CamelFileName=a.txt
+ CamelFileAbsolute=false
+ CamelFileAbsolutePath=/Users/g.awekar/code/camel-samples/data/inbox/a.txt
+ CamelFileNameOnly=a.txt
+ CamelFileRelativePath=a.txt
+ CamelFileParent=data/inbox
+ breadcrumbId=ID-L4973-56363-1360601668718-0-1
+ }
+
+{CamelFileParent=data/inbox
+ breadcrumbId=ID-L4973-56363-1360601668718-0-3, CamelFileAbsolutePath=/Users/g.awekar/code/camel-samples/data/inbox/a.xml, CamelFileNameOnly=a.xml, CamelFileAbsolute=false, CamelFileName=a.xml, CamelFileLength=0, CamelFileRelativePath=a.xml, CamelFilePath=data/inbox/a.xml, CamelFileLastModified=Mon Feb 11 16:38:00 GMT 2013}
+{CamelFileName=b.txt, CamelFileParent=data/inbox, CamelFileNameOnly=b.txt, CamelFileLastModified=Mon Feb 11 15:58:48 GMT 2013, CamelFilePath=data/inbox/b.txt, CamelFileAbsolute=false, CamelFileLength=22, CamelFileRelativePath=b.txt, CamelFileAbsolutePath=/Users/g.awekar/code/camel-samples/data/inbox/b.txt, breadcrumbId=ID-L4973-56363-1360601668718-0-5}
+{CamelFileAbsolute=false, CamelFileRelativePath=b.xml, CamelFileName=b.xml, CamelFileNameOnly=b.xml, CamelFileParent=data/inbox, CamelFileAbsolutePath=/Users/g.awekar/code/camel-samples/data/inbox/b.xml, CamelFileLength=0, CamelFileLastModified=Mon Feb 11 16:38:11 GMT 2013, breadcrumbId=ID-L4973-56363-1360601668718-0-7, CamelFilePath=data/inbox/b.xml}
